@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CA31E4</color>
+    <color name="colorPrimaryDark">#CA31E4</color>
+    <color name="colorAccent">#CA31E4</color>
+    <color name="james_purple">#CA31E4</color>
+    <color name="darkgrey">#A9A9A9</color>
+    <color name="dimgray">#696969</color>
+    <color name="normalblack">#000000</color>
+</resources>
